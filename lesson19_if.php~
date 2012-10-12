@@ -1,0 +1,7 @@
+<?php
+$number =10;
+
+if($number==10){
+	echo 'Equal to ten!';
+}
+?>

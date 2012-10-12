@@ -1,0 +1,4 @@
+<?php
+	$text="php text";
+?>
+<input type = "text" value="<?=$text?>" />

@@ -1,0 +1,7 @@
+<?php
+$day = 'Thursday';
+$date = 31;
+$year = 2012;
+
+echo 'The date is '.$day.' '.$date.' '.year;
+?>

@@ -1,0 +1,6 @@
+<?php
+//missing out terminator on purpose
+$var = 'Jason'
+
+
+?>
