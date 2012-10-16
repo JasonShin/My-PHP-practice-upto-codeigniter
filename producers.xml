@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<producers>
+    <producer>
+        <name>Jason</name>
+        <age>20</age>
+        
+        <show>
+            <showname>A show</showname>
+            <showdate>30th November 2012</showdate>
+        </show>
+        
+        <show>
+            <showname>Another show</showname>
+            <showdate>10th November 2012</showdate>
+        </show>
+        
+        
+    </producer>
+    <producer>
+        <name>Stan</name>
+        <age>21</age>
+    </producer>
+    <producer>
+        <name>Kyle</name>
+        <age>22</age>
+    </producer>
+
+</producers>
